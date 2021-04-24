@@ -1,4 +1,4 @@
-const baseURL = 'https://superheroapi.com/api/';
+const baseURL = 'https://efa-cors-anywhere.herokuapp.com/https://superheroapi.com/api/';
 const key = '10159011253549020'
 let url;
 
