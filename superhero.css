@@ -1,0 +1,81 @@
+body{
+    background-image: url("./assets/hero-background.jfif");
+    background-position: center;
+    font-family: 'Bangers', cursive;
+}
+
+.overlay{
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: center;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+#title{
+  margin: 20px;
+  font-weight: 700;
+  font-size: 64px;
+  color: #fff;
+  text-align: center;
+}
+
+.about{
+    color: #fff;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+}
+
+.second-title{
+    color: #fff;
+    font-weight: 600;
+    font-size: 54px;
+    text-align: center;
+    
+}
+
+.search-form{
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#cardImg{
+    height: 100%;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#button{
+    height: 10%;
+    width: 10%;
+    
+}
+
+#input{
+    height: 12%;
+    width: 12%;
+    margin-top: 60px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#title2{
+    text-align: center;
+    font-size: 36px;
+}
+
+#text{
+    text-align: center;
+    font-size: 20px;
+}
